@@ -1,0 +1,12 @@
+name: network_individuals
+title: Network_Individuals
+username: kbodwin
+account: kbodwin
+server: rstudio.csm.calpoly.edu
+hostUrl: https://rstudio.csm.calpoly.edu/__api__
+appId: 3
+bundleId: 3
+url: https://rstudio.csm.calpoly.edu/content/3/
+when: 1565380006.28193
+asMultiple: FALSE
+asStatic: FALSE
